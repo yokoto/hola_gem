@@ -1,10 +1,10 @@
 hola\_gem
 =========
-This is one of the [RubyGems](http://rubygems.org/)
+This is one of the [RubyGems](http://rubygems.org/).
 
 You can generate "hello world" easily by using this gem.  
 
-This gem is made by the reference, [RubyGems Guides for Japanese](http://rubygems-guides-jp.herokuapp.com/)  
+This gem is made by the reference, [RubyGems Guides for Japanese](http://rubygems-guides-jp.herokuapp.com/).
 
 License
 -------
